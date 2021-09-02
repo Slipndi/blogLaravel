@@ -1,0 +1,7 @@
+{
+    "editor.codeActionsOnSave": null,
+    "prettier.vueIndentScriptAndStyle": true,
+    "editor.tabSize": 2,
+    "editor.formatOnSaveMode": "modifications",
+    "editor.minimap.enabled": false
+}
